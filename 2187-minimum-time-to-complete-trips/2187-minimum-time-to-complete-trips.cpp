@@ -5,6 +5,9 @@ public:
         long long sum=0;
         for(int i=0;i<time.size();i++){
             sum+=t/time[i];
+            if(sum>=totalTrips){
+                return true;
+            }
         }
    
         return sum>=totalTrips;
