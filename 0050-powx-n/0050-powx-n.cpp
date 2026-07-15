@@ -16,7 +16,7 @@ public:
     }
     double myPow(double x, int n) {
         long long num=n;
-        if(n<0){
+        if(num<0){
             return (1.0/power(x,-1*num));
         }
         return power(x,num);
