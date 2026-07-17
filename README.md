@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0217-contains-duplicate) |
 | [0875-koko-eating-bananas](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0875-koko-eating-bananas) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0027-remove-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
