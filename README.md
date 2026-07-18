@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0078-subsets) |
 | [0217-contains-duplicate](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0217-contains-duplicate) |
 | [0875-koko-eating-bananas](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -93,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
