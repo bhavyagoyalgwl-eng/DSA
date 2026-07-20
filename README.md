@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0217-contains-duplicate) |
 | [0875-koko-eating-bananas](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1260-shift-2d-grid](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1260-shift-2d-grid) |
 | [2187-minimum-time-to-complete-trips](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [3312-sorted-gcd-pair-queries](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
