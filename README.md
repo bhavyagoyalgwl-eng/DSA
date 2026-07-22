@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0058-length-of-last-word) |
+| [0171-excel-sheet-column-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0451-sort-characters-by-frequency](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0709-to-lower-case](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0709-to-lower-case) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0066-plus-one) |
+| [0171-excel-sheet-column-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1922-count-good-numbers) |
