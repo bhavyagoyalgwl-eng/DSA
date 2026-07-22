@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1922-count-good-numbers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1922-count-good-numbers) |
 ## Two Pointers
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0231-power-of-two) |
 ## Greedy
 |  |
 | ------- |
