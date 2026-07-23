@@ -32,13 +32,8 @@ public:
             }
         }
         while(n1>=0){
-            if(carry+(a[n1]-'0')==3){
-                t+='1';
-                carry=1;
-                n1--;
-              
-            }
-            else if(carry+(a[n1]-'0')==2){
+            
+            if(carry+(a[n1]-'0')==2){
                 t+='0';
                 carry=1;
                 n1--;
@@ -58,14 +53,9 @@ public:
             }
         }
         while(n2>=0){
-            if(carry+(b[n2]-'0')==3){
-                t+='1';
-                carry=1;
-             
-                n2--;
-            }
+            
 
-            else if(carry+(b[n2]-'0')==2){
+            if(carry+(b[n2]-'0')==2){
                 t+='0';
                 carry=1;
                 
