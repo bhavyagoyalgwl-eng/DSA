@@ -7,21 +7,21 @@ public:
         return false;
     }
     string reverseVowels(string s) {
-        vector<char>freq;
-        for(int i=0;i<s.size();i++){
-            if(isVowel(s[i])){
-                freq.push_back(s[i]);
+        int low=0;
+        int high=s.size()-1;
+        while(low<=high){
+            if(isVowel(s[low])==false){
+                low++;
+            }
+            else if(isVowel(s[high])==false){
+                high--;
+            }
+            else{
+                swap(s[low],s[high]);
+                low++;
+                high--;
             }
         }
-        reverse(freq.begin(),freq.end());
-        int index=0;
-        string str=s;
-        for(int i=0;i<s.size();i++){
-            if(isVowel(str[i])){
-                str[i]=freq[index];
-                index++;
-            }
-        }
-         return str;
+        return s;
     }
 };
