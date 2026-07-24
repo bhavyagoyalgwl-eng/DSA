@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0367-valid-perfect-square) |
 | [0875-koko-eating-bananas](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2187-minimum-time-to-complete-trips](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2187-minimum-time-to-complete-trips) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0292-nim-game) |
+| [0367-valid-perfect-square](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0367-valid-perfect-square) |
 | [1922-count-good-numbers](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1922-count-good-numbers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
