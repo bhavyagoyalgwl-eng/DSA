@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0292-nim-game) |
 | [1922-count-good-numbers](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1922-count-good-numbers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -154,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
