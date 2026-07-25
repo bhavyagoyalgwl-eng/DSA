@@ -2,7 +2,7 @@ class Solution {
 public:
     bool isValid(string s) {
         
-        int topofstack=0;
+       
         stack<char>s2;
         int index=0;
         
