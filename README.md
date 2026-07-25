@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0090-subsets-ii) |
 | [0217-contains-duplicate](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0414-third-maximum-number) |
 | [0875-koko-eating-bananas](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1260-shift-2d-grid) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
