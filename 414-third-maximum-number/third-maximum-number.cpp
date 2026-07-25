@@ -7,7 +7,7 @@ public:
             if(nums.size()==1) return nums[0];
             if(nums.size()==2){
                 for(int i=0;i<nums.size();i++){
-                    if(nums[i]>=largest){
+                    if(nums[i]>largest){
                         Secondlargest=largest;
                         largest=nums[i];
                     }
