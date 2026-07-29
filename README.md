@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0709-to-lower-case](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0709-to-lower-case) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0415-add-strings) |
 | [1922-count-good-numbers](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1922-count-good-numbers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
