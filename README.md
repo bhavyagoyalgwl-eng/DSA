@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0506-relative-ranks) |
 | [0875-koko-eating-bananas](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1260-shift-2d-grid) |
@@ -85,12 +86,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0506-relative-ranks) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0506-relative-ranks) |
 ## Bucket Sort
 |  |
 | ------- |
