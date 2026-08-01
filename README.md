@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0492-construct-the-rectangle) |
 | [1922-count-good-numbers](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1922-count-good-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3312-sorted-gcd-pair-queries) |
