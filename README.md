@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0482-license-key-formatting](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0504-base-7) |
 | [0709-to-lower-case](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0709-to-lower-case) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0492-construct-the-rectangle) |
+| [0504-base-7](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0504-base-7) |
 | [1922-count-good-numbers](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1922-count-good-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3312-sorted-gcd-pair-queries) |
