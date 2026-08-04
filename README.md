@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0509-fibonacci-number) |
+| [0728-self-dividing-numbers](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0728-self-dividing-numbers) |
 | [1922-count-good-numbers](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1922-count-good-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3312-sorted-gcd-pair-queries) |
