@@ -7,14 +7,11 @@ public:
             minimum=min(minimum,nums[i]);
             maximum=max(maximum,nums[i]);
         }
-        vector<int>freq(maximum-minimum+1);
-        for(int i=0;i<nums.size();i++){
-            freq[nums[i]-minimum]++;
-        }
         vector<int>ans;
-        for(int i=0;i<=(maximum-minimum);i++){
-            if(freq[i]==0){
-                ans.push_back(i+minimum);
+        unordered_set<int>m(nums.begin(),nums.end());
+        for(int i=minimum;i<=maximum;i++){
+            if(m.find(i)==m.end()){
+                ans.push_back(i);
             }
         }
         return ans;
