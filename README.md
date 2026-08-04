@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
