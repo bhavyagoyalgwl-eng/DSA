@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0566-reshape-the-matrix) |
 | [0875-koko-eating-bananas](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1260-shift-2d-grid) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0415-add-strings) |
+| [0566-reshape-the-matrix](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1260-shift-2d-grid) |
 ## Enumeration
 |  |
