@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0575-distribute-candies) |
+| [0682-baseball-game](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0682-baseball-game) |
 | [0875-koko-eating-bananas](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1260-shift-2d-grid) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
