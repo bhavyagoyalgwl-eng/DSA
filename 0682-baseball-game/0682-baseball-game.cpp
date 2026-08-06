@@ -22,9 +22,7 @@ public:
             }
 
         }
-        if(ans.empty()){
-            return 0;
-        }
+        
         int sum=0;
         for(int i=0;i<ans.size();i++){
             sum+=ans[i];
