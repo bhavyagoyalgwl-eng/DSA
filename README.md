@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1009-complement-of-base-10-integer) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
