@@ -15,7 +15,7 @@ public:
 
         int low=0;
         int high=temp.size()-1;
-        bool flag=false;
+    
         while(low<=high){
             int mid=low+(high-low)/2;
             if(temp[mid]==sum){
