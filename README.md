@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0709-to-lower-case) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0605-can-place-flowers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Monotonic Stack
 |  |
