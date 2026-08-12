@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2187-minimum-time-to-complete-trips](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2187-minimum-time-to-complete-trips) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0575-distribute-candies) |
 | [1331-rank-transform-of-an-array](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3731-find-missing-elements](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3731-find-missing-elements) |
@@ -319,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0190-reverse-bits) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
