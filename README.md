@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2683-neighboring-bitwise-xor](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2683-neighboring-bitwise-xor) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3731-find-missing-elements](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3731-find-missing-elements) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2683-neighboring-bitwise-xor](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2683-neighboring-bitwise-xor) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Greedy
