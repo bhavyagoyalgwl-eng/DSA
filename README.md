@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3895-count-digit-appearances) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String Matching
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0509-fibonacci-number) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
 | ------- |
