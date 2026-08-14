@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2187-minimum-time-to-complete-trips](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2187-minimum-time-to-complete-trips) |
+| [2317-maximum-xor-after-operations](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2317-maximum-xor-after-operations) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2683-neighboring-bitwise-xor](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2683-neighboring-bitwise-xor) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0728-self-dividing-numbers) |
 | [1922-count-good-numbers](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1922-count-good-numbers) |
+| [2317-maximum-xor-after-operations](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2317-maximum-xor-after-operations) |
 | [2396-strictly-palindromic-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2396-strictly-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1009-complement-of-base-10-integer) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2317-maximum-xor-after-operations](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2317-maximum-xor-after-operations) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2683-neighboring-bitwise-xor](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2683-neighboring-bitwise-xor) |
