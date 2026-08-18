@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-minimum-time-to-complete-trips](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2317-maximum-xor-after-operations](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2317-maximum-xor-after-operations) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2683-neighboring-bitwise-xor](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2683-neighboring-bitwise-xor) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0561-array-partition) |
 | [1331-rank-transform-of-an-array](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3731-find-missing-elements) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1260-shift-2d-grid) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Enumeration
 |  |
 | ------- |
