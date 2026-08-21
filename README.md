@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0463-island-perimeter) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0441-arranging-coins) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0392-is-subsequence) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0476-number-complement) |
@@ -407,4 +411,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0535-encode-and-decode-tinyurl) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
