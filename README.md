@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0090-subsets-ii) |
 | [0204-count-primes](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3312-sorted-gcd-pair-queries](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3312-sorted-gcd-pair-queries) |
