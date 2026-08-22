@@ -2,7 +2,7 @@ class Solution {
 public:
     int bestClosingTime(string customers) {
       int penalty=0;
-      vector<int>close(customers.size()+1);
+     
         for(int i=0;i<customers.size();i++){
             if(customers[i]=='Y'){
                 penalty++;
