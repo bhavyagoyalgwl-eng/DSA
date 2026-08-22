@@ -14,11 +14,6 @@ public:
             index++;
             ans=max(ans,sum);
         }
-        if(ans<0){
-            return 0;
-        }
-        else{
-            return ans;
-        }
+       return max(0,ans);
     }
 };
