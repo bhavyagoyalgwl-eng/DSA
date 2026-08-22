@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0682-baseball-game) |
 | [0875-koko-eating-bananas](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1052-grumpy-bookstore-owner](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1260-shift-2d-grid](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1052-grumpy-bookstore-owner](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Minimax
