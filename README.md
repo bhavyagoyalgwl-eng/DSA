@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0682-baseball-game) |
 | [0875-koko-eating-bananas](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1052-grumpy-bookstore-owner](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1260-shift-2d-grid](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1260-shift-2d-grid) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0441-arranging-coins) |
 | [0875-koko-eating-bananas](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2187-minimum-time-to-complete-trips](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
