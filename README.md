@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1402-reducing-dishes) |
 | [1480-running-sum-of-1d-array](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2029-stone-game-ix](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2029-stone-game-ix) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0509-fibonacci-number) |
 | [1402-reducing-dishes](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1402-reducing-dishes) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1052-grumpy-bookstore-owner) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Minimax
