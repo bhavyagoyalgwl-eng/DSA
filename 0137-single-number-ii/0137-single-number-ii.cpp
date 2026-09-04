@@ -7,7 +7,7 @@ public:
             for(int j=0;j<nums.size();j++){
                 if((nums[j]>>i)&1) count++;
             }
-            if(count%3==1) ans|=(1<<i); 
+            if(count%3==1) ans|=(1LL<<i); 
         }
         return ans;
     }
