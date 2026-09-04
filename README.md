@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-minimum-time-to-complete-trips](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2317-maximum-xor-after-operations](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2317-maximum-xor-after-operations) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2574-left-and-right-sum-differences](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2574-left-and-right-sum-differences) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2317-maximum-xor-after-operations](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2317-maximum-xor-after-operations) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2683-neighboring-bitwise-xor](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2683-neighboring-bitwise-xor) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0292-nim-game) |
 | [2396-strictly-palindromic-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2396-strictly-palindromic-number) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 ## Game Theory
 |  |
 | ------- |
