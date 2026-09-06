@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0290-word-pattern) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0115-distinct-subsequences) |
 | [0338-counting-bits](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0509-fibonacci-number) |
