@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2029-stone-game-ix) |
 | [2317-maximum-xor-after-operations](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2317-maximum-xor-after-operations) |
 | [2396-strictly-palindromic-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2396-strictly-palindromic-number) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2614-prime-in-diagonal](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2614-prime-in-diagonal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -284,12 +285,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0204-count-primes) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2614-prime-in-diagonal](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2614-prime-in-diagonal) |
 | [3312-sorted-gcd-pair-queries](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -431,14 +434,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0204-count-primes) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Sieve Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0204-count-primes) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0204-count-primes) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -482,4 +488,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0287-find-the-duplicate-number) |
+## Prime Factorization
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 <!---LeetCode Topics End-->
