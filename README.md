@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0836-rectangle-overlap) |
 | [1922-count-good-numbers](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1922-count-good-numbers) |
 | [2029-stone-game-ix](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2029-stone-game-ix) |
 | [2317-maximum-xor-after-operations](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2317-maximum-xor-after-operations) |
@@ -514,4 +515,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
