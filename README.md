@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0463-island-perimeter) |
+| [0475-heaters](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0475-heaters) |
 | [0495-teemo-attacking](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0500-keyboard-row) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0441-arranging-coins) |
+| [0475-heaters](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0475-heaters) |
 | [0713-subarray-product-less-than-k](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0475-heaters](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0561-array-partition) |
 | [1331-rank-transform-of-an-array](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0392-is-subsequence) |
+| [0475-heaters](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0475-heaters) |
 | [0541-reverse-string-ii](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
