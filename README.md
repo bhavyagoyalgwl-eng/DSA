@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0041-first-missing-positive) |
+| [0059-spiral-matrix-ii](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0090-subsets-ii) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0415-add-strings) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0463-island-perimeter](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1260-shift-2d-grid) |
