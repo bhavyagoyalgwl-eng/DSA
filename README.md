@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2187-minimum-time-to-complete-trips](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2317-maximum-xor-after-operations](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2317-maximum-xor-after-operations) |
+| [2326-spiral-matrix-iv](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2326-spiral-matrix-iv) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2326-spiral-matrix-iv](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2326-spiral-matrix-iv) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1260-shift-2d-grid) |
+| [2326-spiral-matrix-iv](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2326-spiral-matrix-iv) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2614-prime-in-diagonal](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2614-prime-in-diagonal) |
 ## Enumeration
@@ -545,4 +548,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [2326-spiral-matrix-iv](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2326-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
