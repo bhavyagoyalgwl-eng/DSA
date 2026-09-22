@@ -27,26 +27,18 @@ public:
         if(tempA->val>=tempB->val){
             tempC->next=tempB;
             tempC=tempB;
-            if(tempB->next==NULL) break;
+            
             tempB=tempB->next;
             
         }
         else if(tempB->val>tempA->val){
             tempC->next=tempA;
             tempC=tempA;
-            if(tempA->next==NULL) break;
+          
             tempA=tempA->next;
         }
         }
-        if(tempA->next==NULL && tempB->next==NULL){
-            if(tempA->val>=tempB->val){
-                tempB->next=tempA;
-            }
-            else{
-                tempA->next=tempB;
-            }
-        }
-        else if(tempA->next==NULL){
+        if(tempA==NULL){
             tempC->next=tempB;
         }
         else{
