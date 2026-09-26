@@ -30,6 +30,6 @@ public:
             }
             
         }
-        return s=ans;
+        return ans;
     }
 };
