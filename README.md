@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2029-stone-game-ix](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2029-stone-game-ix) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
