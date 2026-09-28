@@ -559,4 +559,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/2326-spiral-matrix-iv) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bhavyagoyalgwl-eng/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
